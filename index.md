@@ -36,13 +36,13 @@
 
 
 
-* Got hands on experience in technologies like html, css, jquery, and java's spring boot framework, Thymeleaf and H2 database, MySql.
-* Developed a login based web chat app that includes hashing of passwords
-* Developed a note taking app that can store encrypted credentials, upload files and store notes.
+Got hands on experience in technologies like:
+* html, css, bootstrap, jquery
+* java's spring boot framework, Thymeleaf and H2 database, MySql.
 
 
 ---
-## PROJECTS (Newest to Oldest)
+## Projects (Newest to Oldest)
 
 ### **Lmeter Website, Mobile Apps and Admin Web Portal. (KU)**
 
@@ -97,6 +97,29 @@
 
 * Improved existing web pages using basic forntend technologies like html, CSS, Bootstrap and jquery.
 
+
+
+---
+## Personal Projects
+
+### **Cloud Storage App** 
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/sanngeet/cloud-storage-app)
+
+A simple web application where you login in and store your passwords, upload files and take notes developed using the following technologies:
+* html, css, bootstrap, jquery
+* Java Springboot
+* MySql
+
+
+### **Web Chat App** 
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/sanngeet/basic-chat-app)
+
+A basic web based Chat application where you can log in and chat with all the other users of the app built using basic front end technologies and Java springboot for backend.
+
+### **Progressive Web App using Angular** 
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/sanngeet/pokemon)
+
+A progressive web app that lists all the pokemon through a publicly available API and shows all the features of the pokemon. The app can be installed in the system so it works to some extent even without the internet.
 
 ---
 ## Education
