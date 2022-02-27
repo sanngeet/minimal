@@ -1,5 +1,5 @@
 # Portfolio CV
----
+
 ## Skills
 
 * **Front end:** HTML5, CSS3, Bootstrap, Javascript, Angular JS, Angular
@@ -7,9 +7,42 @@
 * **Tools:** Git, Postman, phpMyAdmin, Adminer, Apache Web Server, Ubuntu OS, GCP, AWS
 * **Interested in:** MERN Stack / Angular-Spring Boot 
 
-### Fraud Detection
+---
+## Experience
 
-Fraud detection is a set of processes and analyses that allow businesses to identify and prevent unauthorized financial activity. This can include fraudulent credit card transactions, identify theft, cyber hacking, insurance scams, and more.
+### **Lmeter Global Real Estate, Kuwait city, KU** — Full Stack Developer JUNE 2019 - PRESENT
+
+
+* Developed a responsive and dynamic website that fetches data based on the country selected.
+* Implemented English as well as Arabic Versions (RTL) of the website and related webapps.
+* Implemented separate secure subdomains for different countries.
+* Implemented Phone number OTP verification using Twilio libraries.
+* Implemented Payment Gateways: Knet (DEBIT), NBK (CREDIT) based in the Middle east.
+* Developed an Admin Dashboard for managing user roles and permissions and master data for Mobile and Web apps.
+* Developed APIs APIs for Lmeter app and Lmeter’s business app.
+
+### **Esec Forte Technologies, Bengaluru, IN** — Full Stack Developer JUNE 2017 - JUNE 2019
+
+
+
+* Worked on developing a security based web app i.e, DDOS Risk Assessment which involves interaction among various servers and execution of various shell scripts in remote servers. 
+ * Implemented Role Based Access Control model and other methodologies for dynamic creation of Database Master Tables. 
+ * Provided methodologies for Architectural improvements, and efficient database design. 
+ * Worked on Code Optimization and Robustness of the Application. 
+ * Hands-on experience using LINUX and Apache web servers.
+
+
+### **IT Support Desk Pvt Ltd, Bengaluru, IN** — Java Trainee SEPT 2016 - FEB 2017
+
+
+
+* Got hands on experience in technologies like html, css, jquery, and java's spring boot framework, Thymeleaf and H2 database, MySql.
+* Developed a login based web chat app that includes hashing of passwords
+* Developed a note taking app that can store encrypted credentials, upload files and store notes.
+
+
+---
+## PROJECTS (Newest to Oldest)
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/sajankedia/fraud_detection)
 
