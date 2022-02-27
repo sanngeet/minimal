@@ -128,8 +128,15 @@ A progressive web app that lists all the pokemon through a publicly available AP
 ---
 ## Education
 
-* **Executive PG in ML and AI** - International Institute of Information Technology, Bangalore (2022 - 2023)
-* **B.E. Computer Science** - Model Institute of Engineering and Technology, Jammu (2012 - 2016)
+ **Degree**        | **University**           | **Duration**  
+ ------------- |:-------------:| -----:
+ **Executive PG in ML and AI**      | International Institute of Information Technology, Bangalore | 2022 - 2023
+ **B.E. Computer Science**      | Model Institute of Engineering and Technology, Jammu      |   2012 - 2016 
 
 
-
+---
+## Personal Details and Contact Information
+* **Current Address:** Jammu, Jammu and Kashmir, India
+* **Job Location:** Kuwait city, Kuwait
+* **Email:** sanngeetbargotra@gmail.com
+* **Phone:** +917006800019, +96597564184
