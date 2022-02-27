@@ -1,6 +1,11 @@
-# Data Science Portfolio
+# Portfolio CV
 ---
-## Machine learning
+## Skills
+
+* **Front end:** HTML5, CSS3, Bootstrap, Javascript, Angular JS, Angular
+* **Back end:** PHP’s CodeIgniter, Java’s Springboot, Nodejs, MYSQL
+* **Tools:** Git, Postman, phpMyAdmin, Adminer, Apache Web Server, Ubuntu OS, GCP, AWS
+* **Interested in:** MERN Stack / Angular-Spring Boot 
 
 ### Fraud Detection
 
