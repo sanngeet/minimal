@@ -1,11 +1,15 @@
 # Career Portfolio
 
-## Skills
+## Hello, Here's who I am and what I do
+
+### Skills
 
 * **Front end:** HTML5, CSS3, Bootstrap, Javascript, Angular JS, Angular
-* **Back end:** PHP’s CodeIgniter, Java’s Springboot, Nodejs, MYSQL
-* **Tools:** Git, Postman, phpMyAdmin, Adminer, Apache Web Server, Ubuntu OS, GCP, AWS
-* **Interested in:** MERN Stack / Angular-Spring Boot 
+* **Back end:** PHP’s CodeIgniter, Java’s Springboot, Nodejs
+* **Database program:** MySql, MongoDB 
+* **Tools:** Git, Postman, phpMyAdmin, Adminer, Apache Web Server, GCP, AWS
+* **Platforms:** Windows, Linux, Unix
+* **Interested in:** Machine Learning and Artificial Intelligence 
 
 ---
 ## Experience
