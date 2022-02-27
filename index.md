@@ -49,14 +49,14 @@
 * Lmeter is a Real Estate property finder based in the Middle East.
 * There are 4 mobile apps for regular users and brokers for both Android and IOS platforms.
 * There is a User’s web app that provides the same functionality as the Mobile app.
-* Website -  https://www.lmeter.com
-* User Login -  https://www.lmeter.com/login
-* Admin Login - https://www.lmeter.com/admin
+* Website -  [Lmeter Global Real Estate](https://www.lmeter.com) 
+* User Login -  [User App](https://www.lmeter.com/login)  
+* Admin Login - [Admin Portal](https://www.lmeter.com/admin)  
 
 ### **Gr8moves - Relocation Service (KU)**
 
 * A static website with a form build using Java’s spring boot and Angular js.
-* Website - https://www.gr8moves.com/
+* Website - [gr8moves](https://www.gr8moves.com/) 
 
 
 ### **NACO IMS - National AIDS Control Organization, Inventory Management System**
@@ -67,14 +67,14 @@
 ### **Fingertips - Study App for Students (VI to XII Standard)**
 
 * Created and modified APIs for the mobile application.
-* Created a web quiz window using Angular TS. (https://quiz.fingertips.in/)
-* Website - https://fingertips.in
+* Created a web quiz window using Angular TS. [Quiz](https://quiz.fingertips.in/)
+* Website - [fingertips](https://fingertips.in)
 
 
 ### **Esecforte’s Order Management System**
 
 * Recreated an existing company’s Web Portal to manage Orders using AngularJs and Codeigniter along with my Team Lead.
-* Admin login - http://odm.esecdev.com/login
+* Admin login - [Order Management](http://odm.esecdev.com/login) 
 
 ### **NXSAT**
 
