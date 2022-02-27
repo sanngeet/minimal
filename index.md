@@ -44,6 +44,66 @@
 ---
 ## PROJECTS (Newest to Oldest)
 
+### **Lmeter Website, Mobile Apps and Admin Web Portal. (KU)**
+
+* Lmeter is a Real Estate property finder based in the Middle East.
+* There are 4 mobile apps for regular users and brokers for both Android and IOS platforms.
+* There is a User’s web app that provides the same functionality as the Mobile app.
+* Website -  https://www.lmeter.com
+* User Login -  https://www.lmeter.com/login
+* Admin Login - https://www.lmeter.com/admin
+
+### **Gr8moves - Relocation Service (KU)**
+
+* A static website with a form build using Java’s spring boot and Angular js.
+* Website - https://www.gr8moves.com/
+
+
+### **NACO IMS - National AIDS Control Organization, Inventory Management System**
+
+* Fixed Web Vulnerabilities based on the security audit report (CSRF, XSS, Click Jacking, System Misconfiguration etc.)
+
+
+### **Fingertips - Study App for Students (VI to XII Standard)**
+
+* Created and modified APIs for the mobile application.
+* Created a web quiz window using Angular TS. (https://quiz.fingertips.in/)
+* Website - https://fingertips.in
+
+
+### **Esecforte’s Order Management System**
+
+* Recreated an existing company’s Web Portal to manage Orders using AngularJs and Codeigniter along with my Team Lead.
+* Admin login - http://odm.esecdev.com/login
+
+### **NXSAT**
+
+* Created an Admin’s dashboard that Provides a separate domain for all clients with a separate database created dynamically from the main Web Portal during the creation of a client.
+* Created APIs that receive data from nodes that have NXSAT program installed, which is used to analyze what programs need to be installed as per Corporate compliance.
+* Also Implemented Role Based Access Control.
+
+### **DDOS Risk Assessment**
+
+* Developed a Web Portal from scratch using an Admin’s Dashboard template with AngularJS and Codeigniter.
+* Some scripts are run that call the APIs to store the data in the database to analyse the effect of all the types of DDOS attacks on the target domain.
+* The attack can be analysed in real time using a graph on the dashboard.
+
+### **Bluestream**
+
+* Created various pages using HTML and CSS for pdf generation.
+* Exposure to AngularJS, PHP’s codeigniter and Mongodb.
+
+### **CHAI - Clinton Health Access Initiative**
+
+* Improved existing web pages using basic forntend technologies like html, CSS, Bootstrap and jquery.
+
+
+---
+## Education
+
+* **Executive PG in ML and AI** - International Institute of Information Technology, Bangalore (2022 - 2023)
+* **B.E. Computer Science** - Model Institute of Engineering and Technology, Jammu (2012 - 2016)
+
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/sajankedia/fraud_detection)
 
 <center><img src="images/fraud_detection.jpg"/></center>
